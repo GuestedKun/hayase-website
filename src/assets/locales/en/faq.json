@@ -1,0 +1,21 @@
+{
+	"list": {
+		"selfhost": {
+			"q": "How can I self-host Hayase Studies?",
+			"a": "Nah"
+		},
+		"morelinks": {
+			"q": "How do I get more links?",
+			"a": "<0>You can't :("
+		},
+		"source": {
+			"q": "Where is this website's source code?",
+			"a": "<0>The source code to this website can be found in our."
+		},
+		"secure": {
+			"q": "Is my information on the proxy secure?",
+			"a": "We do not collect any data, your information is only as secure as the sites you are accessing. For privacy concerns."
+		}
+	},
+	"contact": "Ya want me to add something? ask me"
+}
